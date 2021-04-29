@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Frontline - Bunkers</name>
+  <author>Wuerger</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>Wuerger.Frontline.Bunkers</packageId>
+  <description>Adding highly protective bunker structures with machine guns and "real" roofs.</description>
+</ModMetaData>
