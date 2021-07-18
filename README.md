@@ -4,7 +4,10 @@
 
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
-with permission
+with permission.
+If you like the mod, show the original author your appreciation here: 
+https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
+
 
 - All guns should now show range when placed
 - 1.0 version should have the correct rotation of the turret
@@ -12,6 +15,15 @@ with permission
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/FrontlineBunkers]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
@@ -20,8 +32,8 @@ with permission
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won't spawn with MGs in Inventory during raid
-- Fixed Sound Volume (I'm really sorry)
+- Bug Fix: Enemys won&apos;t spawn with MGs in Inventory during raid
+- Fixed Sound Volume (I&apos;m really sorry)
 =====================
 
 =====Changelog=====
@@ -46,7 +58,7 @@ This mod provides an additional way to fortify your Frontline with new bunker st
 Slope walls are the foundation of your bunker. Needs A LOT of resources to build but can withstand even the hardest bombardement. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 *Bunker embrasure:*
-Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can't climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
+Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can&apos;t climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 *Bunker door:*
 A heavy door granting passage inside the bunker. It can only be opened manually. Holds of fire for a long time, but costs a lot of resources. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
@@ -57,7 +69,7 @@ A semi transparent roofing. Comes in the sizes 5x5 and 3x3. *[notification: More
 [u]Machine Guns:[/u]
 
 *MG 08/15:*
-A build in "Light"-Machine-Gun from the great war. Stats:
+A build in &quot;Light&quot;-Machine-Gun from the great war. Stats:
 - Range: 30
 - Damage: 8
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -67,7 +79,7 @@ A build in "Light"-Machine-Gun from the great war. Stats:
 - Magazine size: 60 rounds
 
 *MG 34:*
-A build in "Medium"-Machine-Gun. Stats:
+A build in &quot;Medium&quot;-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -77,7 +89,7 @@ A build in "Medium"-Machine-Gun. Stats:
 - Magazine size: 60 rounds
 
 *MG 42:*
-A build in "Heavy"-Machine-Gun. Stats:
+A build in &quot;Heavy&quot;-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 50 - medium 65 - short 80 - touch  30
@@ -89,36 +101,6 @@ A build in "Heavy"-Machine-Gun. Stats:
 
 
 Feel free to leave a comment and please report back any occuring bugs. And finally: Have Fun.
-
-
-
-FRONTLINE-Collection:
-
-======== [1.0] FRONTLINE - Additional Guns for Bunkers ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1547118378
-
-======== [1.0] FRONTLINE - Trenches ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1545180996
-
-======== [1.0] FRONTLINE - Additional Guns for Trenches ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
-
-======== [1.0] FRONTLINE - Trenches without guns ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1547133402
-
-Combat Extended ready Versions:
-
-======== [1.0] FRONTLINE - Trenches for Combat Extended========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1661095385
-
-======== [1.0] FRONTLINE - Bunkers CE Version ========
-https://steamcommunity.com/sharedfiles/filedetails/?id=1680522114
-
-
-If you enjoy my work, please consider buying me a coffee/beer.
-
- https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
-
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 

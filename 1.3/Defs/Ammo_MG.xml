@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ========== LMG ========== -->
+  <ThingDef Name="TR_AmmoLMG">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoLMG</defName>
+    <label>Catridge belt for MG 08/15</label>
+    <description>Catridge belt for MG 08/15</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/LMG/TR_Cartridgebelt_LMG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>10</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>8.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <!-- ========== MMG ========== -->
+  <ThingDef Name="TR_AmmoMMG">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoMMG</defName>
+    <label>Drum magazine for MG 34</label>
+    <description>Drum magazine for MG 34</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/MMG/TR_Cartridgebelt_MMG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>15</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>10</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <!-- ========== HMG ========== -->
+  <ThingDef Name="TR_AmmoHMG">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoHMG</defName>
+    <label>Catridge belt for MG 42</label>
+    <description>Catridge belt for MG 42</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/HMG/TR_Cartridgebelt_HMG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>20</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>10.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+</Defs>
