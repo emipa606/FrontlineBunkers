@@ -1,6 +1,6 @@
 # FrontlineBunkers
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
@@ -13,27 +13,18 @@ https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
 - 1.0 version should have the correct rotation of the turret
 - Added the CE-patch into the mod
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/FrontlineBunkers]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won&apos;t spawn with MGs in Inventory during raid
-- Fixed Sound Volume (I&apos;m really sorry)
+- Bug Fix: Enemys won't spawn with MGs in Inventory during raid
+- Fixed Sound Volume (I'm really sorry)
 =====================
 
 =====Changelog=====
@@ -58,7 +49,7 @@ This mod provides an additional way to fortify your Frontline with new bunker st
 Slope walls are the foundation of your bunker. Needs A LOT of resources to build but can withstand even the hardest bombardement. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 *Bunker embrasure:*
-Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can&apos;t climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
+Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can't climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 *Bunker door:*
 A heavy door granting passage inside the bunker. It can only be opened manually. Holds of fire for a long time, but costs a lot of resources. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
@@ -69,7 +60,7 @@ A semi transparent roofing. Comes in the sizes 5x5 and 3x3. *[notification: More
 [u]Machine Guns:[/u]
 
 *MG 08/15:*
-A build in &quot;Light&quot;-Machine-Gun from the great war. Stats:
+A build in "Light"-Machine-Gun from the great war. Stats:
 - Range: 30
 - Damage: 8
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -79,7 +70,7 @@ A build in &quot;Light&quot;-Machine-Gun from the great war. Stats:
 - Magazine size: 60 rounds
 
 *MG 34:*
-A build in &quot;Medium&quot;-Machine-Gun. Stats:
+A build in "Medium"-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -89,7 +80,7 @@ A build in &quot;Medium&quot;-Machine-Gun. Stats:
 - Magazine size: 60 rounds
 
 *MG 42:*
-A build in &quot;Heavy&quot;-Machine-Gun. Stats:
+A build in "Heavy"-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 50 - medium 65 - short 80 - touch  30
@@ -102,7 +93,7 @@ A build in &quot;Heavy&quot;-Machine-Gun. Stats:
 
 Feel free to leave a comment and please report back any occuring bugs. And finally: Have Fun.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

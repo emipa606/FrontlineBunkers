@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ========== LMG ========== -->
-  <ThingDef Name="TR_AmmoLMG">
+  <ThingDef Name="BK_AmmoLMG">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -13,13 +13,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoLMG</defName>
+    <defName>BK_AmmoLMG</defName>
     <label>Catridge belt for MG 08/15</label>
     <description>Catridge belt for MG 08/15</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/LMG/TR_Cartridgebelt_LMG</texPath>
+      <texPath>Things/Building/Mounted/Ammo/LMG/BK_Cartridgebelt_LMG</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -37,7 +37,7 @@
     </comps>
   </ThingDef>
   <!-- ========== MMG ========== -->
-  <ThingDef Name="TR_AmmoMMG">
+  <ThingDef Name="BK_AmmoMMG">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -49,13 +49,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoMMG</defName>
+    <defName>BK_AmmoMMG</defName>
     <label>Drum magazine for MG 34</label>
     <description>Drum magazine for MG 34</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/MMG/TR_Cartridgebelt_MMG</texPath>
+      <texPath>Things/Building/Mounted/Ammo/MMG/BK_Cartridgebelt_MMG</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -73,7 +73,7 @@
     </comps>
   </ThingDef>
   <!-- ========== HMG ========== -->
-  <ThingDef Name="TR_AmmoHMG">
+  <ThingDef Name="BK_AmmoHMG">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
@@ -85,13 +85,13 @@
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
     <pathCost>15</pathCost>
-    <defName>TR_AmmoHMG</defName>
+    <defName>BK_AmmoHMG</defName>
     <label>Catridge belt for MG 42</label>
     <description>Catridge belt for MG 42</description>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
     <graphicData>
-      <texPath>Things/Building/Mounted/Ammo/HMG/TR_Cartridgebelt_HMG</texPath>
+      <texPath>Things/Building/Mounted/Ammo/HMG/BK_Cartridgebelt_HMG</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>

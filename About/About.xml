@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Frontline - Bunkers (Continued)</name>
   <packageId>Mlie.FrontlineBunkers</packageId>
@@ -14,7 +14,7 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
 with permission.
@@ -25,7 +25,7 @@ If you like the mod, show the original author your appreciation here:
 - 1.0 version should have the correct rotation of the turret
 - Added the CE-patch into the mod
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -34,14 +34,14 @@ If you like the mod, show the original author your appreciation here:
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won&apos;t spawn with MGs in Inventory during raid
-- Fixed Sound Volume (I&apos;m really sorry)
+- Bug Fix: Enemys won't spawn with MGs in Inventory during raid
+- Fixed Sound Volume (I'm really sorry)
 =====================
 
 =====Changelog=====
@@ -66,7 +66,7 @@ This mod provides an additional way to fortify your Frontline with new bunker st
 Slope walls are the foundation of your bunker. Needs A LOT of resources to build but can withstand even the hardest bombardement. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 [i]Bunker embrasure:[/i]
-Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can&apos;t climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
+Waist high walls grant your pawns a spot to use their own arms in combat and also provides some cover (70%) . Also in contrast to the ordinary sanbags, enemys can't climp over these structures. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
 
 [i]Bunker door:[/i]
 A heavy door granting passage inside the bunker. It can only be opened manually. Holds of fire for a long time, but costs a lot of resources. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
@@ -77,7 +77,7 @@ A semi transparent roofing. Comes in the sizes 5x5 and 3x3. [i][notification: Mo
 [u]Machine Guns:[/u]
 
 [i]MG 08/15:[/i]
-A build in &quot;Light&quot;-Machine-Gun from the great war. Stats:
+A build in "Light"-Machine-Gun from the great war. Stats:
 - Range: 30
 - Damage: 8
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -87,7 +87,7 @@ A build in &quot;Light&quot;-Machine-Gun from the great war. Stats:
 - Magazine size: 60 rounds
 
 [i]MG 34:[/i]
-A build in &quot;Medium&quot;-Machine-Gun. Stats:
+A build in "Medium"-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 60 - medium 70 - short 80 - touch  30
@@ -97,7 +97,7 @@ A build in &quot;Medium&quot;-Machine-Gun. Stats:
 - Magazine size: 60 rounds
 
 [i]MG 42:[/i]
-A build in &quot;Heavy&quot;-Machine-Gun. Stats:
+A build in "Heavy"-Machine-Gun. Stats:
 - Range: 30
 - Damage: 10
 - Accuracy: long 50 - medium 65 - short 80 - touch  30
@@ -110,7 +110,7 @@ A build in &quot;Heavy&quot;-Machine-Gun. Stats:
 
 Feel free to leave a comment and please report back any occuring bugs. And finally: Have Fun.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.

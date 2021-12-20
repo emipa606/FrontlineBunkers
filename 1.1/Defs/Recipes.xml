@@ -2,7 +2,7 @@
 <Defs>
   <!--LMG-->
   <RecipeDef>
-    <defName>TR_makeLMGAmmo</defName>
+    <defName>BK_makeLMGAmmo</defName>
     <label>make catridge belt - MG 08/15</label>
     <description>Making catridge belt for MG 08/15.</description>
     <jobString>Making catridge belt for MG 08/15.</jobString>
@@ -37,7 +37,7 @@
       </thingDefs>
     </fixedIngredientFilter>
     <products>
-      <TR_AmmoLMG>1</TR_AmmoLMG>
+      <BK_AmmoLMG>1</BK_AmmoLMG>
     </products>
     <recipeUsers>
       <li>TableMachining</li>
@@ -45,7 +45,7 @@
   </RecipeDef>
   <!--MMG-->
   <RecipeDef>
-    <defName>TR_makeMMGAmmo</defName>
+    <defName>BK_makeMMGAmmo</defName>
     <label>make drum magazine - MG 34</label>
     <description>Making drum magazine for MG 34</description>
     <jobString>Making drum magazine for MG 34</jobString>
@@ -80,7 +80,7 @@
       </thingDefs>
     </fixedIngredientFilter>
     <products>
-      <TR_AmmoMMG>1</TR_AmmoMMG>
+      <BK_AmmoMMG>1</BK_AmmoMMG>
     </products>
     <recipeUsers>
       <li>TableMachining</li>
@@ -88,7 +88,7 @@
   </RecipeDef>
   <!--HMG-->
   <RecipeDef>
-    <defName>TR_makeHMGAmmo</defName>
+    <defName>BK_makeHMGAmmo</defName>
     <label>make catridge belt - MG 42</label>
     <description>Making catridge belt for MG 42.</description>
     <jobString>Making catridge belt for MG 42.</jobString>
@@ -123,7 +123,7 @@
       </thingDefs>
     </fixedIngredientFilter>
     <products>
-      <TR_AmmoHMG>1</TR_AmmoHMG>
+      <BK_AmmoHMG>1</BK_AmmoHMG>
     </products>
     <recipeUsers>
       <li>TableMachining</li>

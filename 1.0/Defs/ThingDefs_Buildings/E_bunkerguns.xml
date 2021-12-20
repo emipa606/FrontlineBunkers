@@ -55,7 +55,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoLMG</li>
+            <li>BK_AmmoLMG</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>60</fuelCapacity>
@@ -67,7 +67,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/LMG/TR_Cartridgebelt_LMG</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/LMG/BK_Cartridgebelt_LMG</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
@@ -231,7 +231,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoMMG</li>
+            <li>BK_AmmoMMG</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>60</fuelCapacity>
@@ -243,7 +243,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/MMG/TR_Cartridgebelt_MMG</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/MMG/BK_Cartridgebelt_MMG</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
@@ -407,7 +407,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoHMG</li>
+            <li>BK_AmmoHMG</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>90</fuelCapacity>
@@ -419,7 +419,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/HMG/TR_Cartridgebelt_HMG</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/HMG/BK_Cartridgebelt_HMG</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>

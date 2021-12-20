@@ -44,7 +44,7 @@
         <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
         <fuelFilter>
           <thingDefs>
-            <li>TR_AmmoMMG</li>
+            <li>BK_AmmoMMG</li>
           </thingDefs>
         </fuelFilter>
         <fuelCapacity>60</fuelCapacity>
@@ -56,7 +56,7 @@
         <factorByDifficulty>false</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
         <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
-        <fuelIconPath>Things/Building/Mounted/Ammo/MMG/TR_Cartridgebelt_MMG</fuelIconPath>
+        <fuelIconPath>Things/Building/Mounted/Ammo/MMG/BK_Cartridgebelt_MMG</fuelIconPath>
       </li>
     </comps>
     <passability>Impassable</passability>
