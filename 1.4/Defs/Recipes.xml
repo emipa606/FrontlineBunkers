@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--LMG-->
+  <RecipeDef>
+    <defName>BK_makeLMGAmmo</defName>
+    <label>make catridge belt - MG 08/15</label>
+    <description>Making catridge belt for MG 08/15.</description>
+    <jobString>Making catridge belt for MG 08/15.</jobString>
+    <effectWorking>Cook</effectWorking>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.25</workSkillLearnFactor>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>500</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BK_AmmoLMG>1</BK_AmmoLMG>
+    </products>
+    <recipeUsers>
+      <li>TableMachining</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--MMG-->
+  <RecipeDef>
+    <defName>BK_makeMMGAmmo</defName>
+    <label>make drum magazine - MG 34</label>
+    <description>Making drum magazine for MG 34</description>
+    <jobString>Making drum magazine for MG 34</jobString>
+    <effectWorking>Cook</effectWorking>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.25</workSkillLearnFactor>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>500</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>30</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BK_AmmoMMG>1</BK_AmmoMMG>
+    </products>
+    <recipeUsers>
+      <li>TableMachining</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--HMG-->
+  <RecipeDef>
+    <defName>BK_makeHMGAmmo</defName>
+    <label>make catridge belt - MG 42</label>
+    <description>Making catridge belt for MG 42.</description>
+    <jobString>Making catridge belt for MG 42.</jobString>
+    <effectWorking>Cook</effectWorking>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.25</workSkillLearnFactor>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>500</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>40</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BK_AmmoHMG>1</BK_AmmoHMG>
+    </products>
+    <recipeUsers>
+      <li>TableMachining</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-->
+	<ResearchTabDef>
+		<defName>Trenches</defName>
+		<label>Ancient art of digging some trenches.</label>
+	</ResearchTabDef>
+	
+<-->
+  <ResearchProjectDef>
+    <defName>Bunker1</defName>
+    <label>Bunker structures.</label>
+    <techLevel>Industrial</techLevel>
+    <description>Knowledge of bunker structures.</description>
+    <baseCost>750</baseCost>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Bunker2</defName>
+    <label>Bunker guns.</label>
+    <techLevel>Industrial</techLevel>
+    <description>Learn how to install manned guns inside your bunker.</description>
+    <baseCost>1000</baseCost>
+    <prerequisites>
+      <li>Bunker1</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>

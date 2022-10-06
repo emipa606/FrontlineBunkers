@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="BK_BuildingBaseLMG" Abstract="True">
+    <category>Building</category>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+    <tickerType>Never</tickerType>
+  </ThingDef>
+  <!-- ================ LMG ================ -->
+  <ThingDef ParentName="BK_BuildingBaseLMG">
+    <defName>BK_Base_LMG</defName>
+    <label>MG 08-15</label>
+    <description>Machine gun with low rate of fire.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <graphicData>
+      <texPath>Things/Mounted/MGBaseTrGunBunker</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <rect>(0.38,0.2,0.56375,0.8)</rect>
+        <cornerTL>Damage/Corner</cornerTL>
+      </damageData>
+    </graphicData>
+    <researchPrerequisites>
+      <li>Bunker2</li>
+    </researchPrerequisites>
+    <uiIconPath>Things/Mounted/Icon/BunkerLMG_Icon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <stealable>true</stealable>
+    <rotatable>true</rotatable>
+    <size>(1,1)</size>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+      <WorkToBuild>1500</WorkToBuild>
+      <Mass>380</Mass>
+      <Beauty>-2</Beauty>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Mannable">
+        <manWorkType>Violent</manWorkType>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Shots remaining</fuelLabel>
+        <fuelGizmoLabel>Shots remaining</fuelGizmoLabel>
+        <fuelFilter>
+          <thingDefs>
+            <li>BK_AmmoLMG</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>60</fuelCapacity>
+        <initialFuelPercent>1</initialFuelPercent>
+        <autoRefuelPercent>0</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <fuelMultiplier>60</fuelMultiplier>
+        <factorByDifficulty>false</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+        <outOfFuelMessage>Cannot shoot: Needs new magazine</outOfFuelMessage>
+        <fuelIconPath>Things/Building/Mounted/Ammo/LMG/BK_Cartridgebelt_LMG</fuelIconPath>
+      </li>
+    </comps>
+    <passability>Impassable</passability>
+    <fillPercent>0.7</fillPercent>
+    <castEdgeShadows>false</castEdgeShadows>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <Steel>160</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <costStuffCount>12</costStuffCount>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Bunker</designationCategory>
+    <building>
+      <turretGunDef>BK_Gun_LMG</turretGunDef>
+      <turretBurstWarmupTime>0.75</turretBurstWarmupTime>
+      <turretBurstCooldownTime>4.0</turretBurstCooldownTime>
+      <blueprintGraphicData>
+        <graphicClass>Graphic_Multi</graphicClass>
+        <texPath>Things/Mounted/Blueprints/BunkerLMG_BP</texPath>
+      </blueprintGraphicData>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>BK_Bullet_LMG</defName>
+    <label>7.92mm Bullet</label>
+    <graphicData>
+      <texPath>Things/Bullets/LMGbullet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>8</damageAmountBase>
+      <speed>100</speed>
+      <flyOverhead>false</flyOverhead>
+      <soundImpactAnticipate>BK_Wizz</soundImpactAnticipate>
+    </projectile>
+  </ThingDef>
+  <ThingDef Name="BK_BaseWeaponLMG" Abstract="True">
+    <statBases>
+      <MaxHitPoints>350</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+      <Beauty>-2</Beauty>
+      <SellPriceFactor>0.20</SellPriceFactor>
+    </statBases>
+    <pathCost>10</pathCost>
+    <altitudeLayer>Item</altitudeLayer>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <tickerType>Never</tickerType>
+    <useHitPoints>true</useHitPoints>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li>
+        <compClass>CompEquippable</compClass>
+      </li>
+    </comps>
+    <graphicData>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+    <selectable>true</selectable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <alwaysHaulable>true</alwaysHaulable>
+    <equipmentType>Primary</equipmentType>
+  </ThingDef>
+  <ThingDef ParentName="BK_BaseWeaponLMG">
+    <defName>BK_Gun_LMG</defName>
+    <label>MG 08-15</label>
+    <description>Machine gun with low rate of fire.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Mounted/LMGTrGunBunker</texPath>
+    </graphicData>
+    <techLevel>Industrial</techLevel>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <!--><generateCommonality>0</generateCommonality><-->
+    <tradeability>None</tradeability>
+    <destroyOnDrop>true</destroyOnDrop>
+    <statBases>
+      <MarketValue>800</MarketValue>
+      <AccuracyTouch>0.30</AccuracyTouch>
+      <AccuracyShort>0.80</AccuracyShort>
+      <AccuracyMedium>0.70</AccuracyMedium>
+      <AccuracyLong>0.60</AccuracyLong>
+      <RangedWeapon_Cooldown>4</RangedWeapon_Cooldown>
+      <Mass>20</Mass>
+    </statBases>
+    <weaponTags>
+      <li>Gun</li>
+      <li>TurretGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>BK_Bullet_LMG</defaultProjectile>
+        <forcedMissRadius>0</forcedMissRadius>
+        <warmupTime>0.75</warmupTime>
+        <minRange>0</minRange>
+        <range>30</range>
+        <burstShotCount>12</burstShotCount>
+        <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
+        <soundCast>BK_LMG_Fire</soundCast>
+        <muzzleFlashScale>20</muzzleFlashScale>
+        <targetParams>
+          <canTargetLocations>false</canTargetLocations>
+        </targetParams>
+        <requireLineOfSight>true</requireLineOfSight>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+      </li>
+    </verbs>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>BK_Wizz</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>18</maxVoices>
+    <maxSimultaneous>18</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/BK_Wizz</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>80</min>
+          <max>110</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.865690</min>
+          <max>1.345345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
