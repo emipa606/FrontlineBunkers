@@ -72,6 +72,7 @@
     </comps>
     <passability>Impassable</passability>
     <fillPercent>0.7</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <castEdgeShadows>false</castEdgeShadows>
     <hasTooltip>true</hasTooltip>
     <costList>
