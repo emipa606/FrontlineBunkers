@@ -1,5 +1,8 @@
 # Changelog for FrontlineBunkers
 
+1.5.2 - Made the research-placement better
+
+
 1.5.1 - Fixed the config-error message about embrasures
 
 

@@ -13,8 +13,8 @@
     <techLevel>Industrial</techLevel>
     <description>Knowledge of bunker structures.</description>
     <baseCost>750</baseCost>
-    <researchViewX>0</researchViewX>
-    <researchViewY>0</researchViewY>
+    <researchViewX>7.00</researchViewX>
+    <researchViewY>5.40</researchViewY>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>Bunker2</defName>
@@ -25,7 +25,7 @@
     <prerequisites>
       <li>Bunker1</li>
     </prerequisites>
-    <researchViewX>1</researchViewX>
-    <researchViewY>0</researchViewY>
+    <researchViewX>8.00</researchViewX>
+    <researchViewY>5.40</researchViewY>
   </ResearchProjectDef>
 </Defs>
