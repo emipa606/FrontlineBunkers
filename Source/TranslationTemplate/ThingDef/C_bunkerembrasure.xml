@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bunker-Embrasure North/East -->
+  <BunkerembrasureNE.label>Bunker-Embrasure North/East</BunkerembrasureNE.label>
+  <!-- EN: A waist-high impassable bunkerwall. It's possible to shoot over it. Provides some cover. -->
+  <BunkerembrasureNE.description>A waist-high impassable bunkerwall. It's possible to shoot over it. Provides some cover.</BunkerembrasureNE.description>
+  <!-- EN: Bunker-Embrasure South/West -->
+  <BunkerembrasureSW.label>Bunker-Embrasure South/West</BunkerembrasureSW.label>
+  <!-- EN: A waist-high impassable bunkerwall. It's possible to shoot over it. Provides some cover. -->
+  <BunkerembrasureSW.description>A waist-high impassable bunkerwall. It's possible to shoot over it. Provides some cover.</BunkerembrasureSW.description>
+</LanguageData>

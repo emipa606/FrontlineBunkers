@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bunker structures. -->
+  <Bunker1.label>Bunker structures.</Bunker1.label>
+  <!-- EN: Knowledge of bunker structures. -->
+  <Bunker1.description>Knowledge of bunker structures.</Bunker1.description>
+  <!-- EN: Bunker guns. -->
+  <Bunker2.label>Bunker guns.</Bunker2.label>
+  <!-- EN: Learn how to install manned guns inside your bunker. -->
+  <Bunker2.description>Learn how to install manned guns inside your bunker.</Bunker2.description>
+</LanguageData>

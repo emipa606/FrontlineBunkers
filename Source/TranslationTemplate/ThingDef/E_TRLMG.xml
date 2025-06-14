@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MG 08-15 -->
+  <BK_Base_LMG.label>MG 08-15</BK_Base_LMG.label>
+  <!-- EN: Machine gun with low rate of fire. -->
+  <BK_Base_LMG.description>Machine gun with low rate of fire.</BK_Base_LMG.description>
+  <!-- EN: Shots remaining -->
+  <BK_Base_LMG.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</BK_Base_LMG.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <BK_Base_LMG.comps.CompRefuelable.fuelLabel>Shots remaining</BK_Base_LMG.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <BK_Base_LMG.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</BK_Base_LMG.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 7.92mm Bullet -->
+  <BK_Bullet_LMG.label>7.92mm Bullet</BK_Bullet_LMG.label>
+  <!-- EN: MG 08-15 -->
+  <BK_Gun_LMG.label>MG 08-15</BK_Gun_LMG.label>
+  <!-- EN: Machine gun with low rate of fire. -->
+  <BK_Gun_LMG.description>Machine gun with low rate of fire.</BK_Gun_LMG.description>
+  <!-- EN: MG 08-15 -->
+  <BK_Gun_LMG.verbs.Verb_Shoot.label>MG 08-15</BK_Gun_LMG.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MG-42 -->
+  <BK_Base_HMG.label>MG-42</BK_Base_HMG.label>
+  <!-- EN: Machine gun with high rate of fire. -->
+  <BK_Base_HMG.description>Machine gun with high rate of fire.</BK_Base_HMG.description>
+  <!-- EN: Shots remaining -->
+  <BK_Base_HMG.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</BK_Base_HMG.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <BK_Base_HMG.comps.CompRefuelable.fuelLabel>Shots remaining</BK_Base_HMG.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <BK_Base_HMG.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</BK_Base_HMG.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 7.92mm Bullet -->
+  <BK_Bullet_HMG.label>7.92mm Bullet</BK_Bullet_HMG.label>
+  <!-- EN: MG-42 -->
+  <BK_Gun_HMG.label>MG-42</BK_Gun_HMG.label>
+  <!-- EN: Machine gun with high rate of fire. -->
+  <BK_Gun_HMG.description>Machine gun with high rate of fire.</BK_Gun_HMG.description>
+  <!-- EN: MG-42 -->
+  <BK_Gun_HMG.verbs.Verb_Shoot.label>MG-42</BK_Gun_HMG.verbs.Verb_Shoot.label>
+</LanguageData>

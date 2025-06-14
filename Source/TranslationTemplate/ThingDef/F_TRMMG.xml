@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MG-34 -->
+  <BK_Base_MMG.label>MG-34</BK_Base_MMG.label>
+  <!-- EN: Machine gun with moderate rate of fire. -->
+  <BK_Base_MMG.description>Machine gun with moderate rate of fire.</BK_Base_MMG.description>
+  <!-- EN: Shots remaining -->
+  <BK_Base_MMG.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</BK_Base_MMG.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <BK_Base_MMG.comps.CompRefuelable.fuelLabel>Shots remaining</BK_Base_MMG.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <BK_Base_MMG.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</BK_Base_MMG.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 7.92mm Bullet -->
+  <BK_Bullet_MMG.label>7.92mm Bullet</BK_Bullet_MMG.label>
+  <!-- EN: MG-34 -->
+  <BK_Gun_MMG.label>MG-34</BK_Gun_MMG.label>
+  <!-- EN: Machine gun with moderate rate of fire. -->
+  <BK_Gun_MMG.description>Machine gun with moderate rate of fire.</BK_Gun_MMG.description>
+  <!-- EN: MG-34 -->
+  <BK_Gun_MMG.verbs.Verb_Shoot.label>MG-34</BK_Gun_MMG.verbs.Verb_Shoot.label>
+</LanguageData>

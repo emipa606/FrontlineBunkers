@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make catridge belt - MG 42 -->
+  <BK_makeHMGAmmo.label>make catridge belt - MG 42</BK_makeHMGAmmo.label>
+  <!-- EN: Making catridge belt for MG 42. -->
+  <BK_makeHMGAmmo.description>Making catridge belt for MG 42.</BK_makeHMGAmmo.description>
+  <!-- EN: Making catridge belt for MG 42. -->
+  <BK_makeHMGAmmo.jobString>Making catridge belt for MG 42.</BK_makeHMGAmmo.jobString>
+  <!-- EN: make catridge belt - MG 08/15 -->
+  <BK_makeLMGAmmo.label>make catridge belt - MG 08/15</BK_makeLMGAmmo.label>
+  <!-- EN: Making catridge belt for MG 08/15. -->
+  <BK_makeLMGAmmo.description>Making catridge belt for MG 08/15.</BK_makeLMGAmmo.description>
+  <!-- EN: Making catridge belt for MG 08/15. -->
+  <BK_makeLMGAmmo.jobString>Making catridge belt for MG 08/15.</BK_makeLMGAmmo.jobString>
+  <!-- EN: make drum magazine - MG 34 -->
+  <BK_makeMMGAmmo.label>make drum magazine - MG 34</BK_makeMMGAmmo.label>
+  <!-- EN: Making drum magazine for MG 34 -->
+  <BK_makeMMGAmmo.description>Making drum magazine for MG 34</BK_makeMMGAmmo.description>
+  <!-- EN: Making drum magazine for MG 34 -->
+  <BK_makeMMGAmmo.jobString>Making drum magazine for MG 34</BK_makeMMGAmmo.jobString>
+</LanguageData>

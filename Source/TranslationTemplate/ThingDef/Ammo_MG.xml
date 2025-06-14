@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Catridge belt for MG 42 -->
+  <BK_AmmoHMG.label>Catridge belt for MG 42</BK_AmmoHMG.label>
+  <!-- EN: Catridge belt for MG 42 -->
+  <BK_AmmoHMG.description>Catridge belt for MG 42</BK_AmmoHMG.description>
+  <!-- EN: Catridge belt for MG 08/15 -->
+  <BK_AmmoLMG.label>Catridge belt for MG 08/15</BK_AmmoLMG.label>
+  <!-- EN: Catridge belt for MG 08/15 -->
+  <BK_AmmoLMG.description>Catridge belt for MG 08/15</BK_AmmoLMG.description>
+  <!-- EN: Drum magazine for MG 34 -->
+  <BK_AmmoMMG.label>Drum magazine for MG 34</BK_AmmoMMG.label>
+  <!-- EN: Drum magazine for MG 34 -->
+  <BK_AmmoMMG.description>Drum magazine for MG 34</BK_AmmoMMG.description>
+</LanguageData>

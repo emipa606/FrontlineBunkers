@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--============== Bunkerroof 3x3 ===============-->
   <ThingDef Name="RoofBase" ParentName="BuildingBase" Abstract="True">

@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3515698201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3fd957c2481d6e04e4f1bc803b2818d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c3fd957c2481d6e04e4f1bc803b2818d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Blueprint/bunkerdoor_E_BP.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Blueprint/bunkerdoor_S_BP.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallSW_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Bullets/MMGbullet.png
+- Assets/Data/Mlie.FrontlineBunkers/Sounds/Things/BK_MMG_Fire.ogg
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallSW_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerHMG_BP_north.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Building/Mounted/Ammo/AmmoUI.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/bunkerdoor_E.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/MMGTrGunBunker_old.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/3x3/bunkerroof.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Building/Mounted/Ammo/HMG/BK_Cartridgebelt_HMG.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/MGBaseTrGunBunker_south.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallNE_blueprint_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Icon/bunkerdoor_W_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/bunkerdoor_N.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerHMG_BP_east.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/HMGTrGunBunker_old.png
+- Assets/Data/Mlie.FrontlineBunkers/Sounds/Things/BK_HMG_Fire.ogg
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureNE_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureSW_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Icon/BunkerHMG_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/MMGTrGunBunker.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Building/Mounted/Ammo/MMG/BK_Cartridgebelt_MMG.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerLMG_BP_east.png
+- Assets/Data/Mlie.FrontlineBunkers/Sounds/Things/BK_LMG_Fire.ogg
+- Assets/Data/Mlie.FrontlineBunkers/Sounds/Things/BK_Wizz.ogg
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/MGBaseTrGunBunker_east.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/5x5/bunkerroof55.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureSW_blueprint_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerHMG_BP_south.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerMMG_BP_north.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/HMGTrGunBunker.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Bullets/LMGbullet.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Icon/BunkerMMG_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Icon/bunkerdoor_S_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureNE_blueprint_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/LMGTrGunBunker_old.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Icon/BunkerLMG_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Icon/bunkerdoor_N_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerLMG_BP_north.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureSW_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/LMGTrGunBunker.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallNE_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/bunkerdoor_W.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/MGBaseTrGunBunker_north.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Blueprint/bunkerdoor_W_BP.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/3x3/bunkerroof_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Building/Mounted/Ammo/LMG/BK_Cartridgebelt_LMG.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerLMG_BP_south.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Icon/bunkerdoor_E_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallSW_blueprint_atlas.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerwall/bunkerwallNE_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerembrasure/bunkerembrasureNE_Icon.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/bunkerdoor_S.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Bullets/HMGbullet.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerMMG_BP_south.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Things/Mounted/Blueprints/BunkerMMG_BP_east.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/bunkerdoor/Blueprint/bunkerdoor_N_BP.png
+- Assets/Data/Mlie.FrontlineBunkers/Textures/Bunker/5x5/bunkerroof55_Icon.png
+Dependencies: []

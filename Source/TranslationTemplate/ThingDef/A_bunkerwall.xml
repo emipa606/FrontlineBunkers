@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bunkerwall North/East -->
+  <BunkerwallNE.label>Bunkerwall North/East</BunkerwallNE.label>
+  <!-- EN: An impassable bunkerwall. Capable of holding up a roof. -->
+  <BunkerwallNE.description>An impassable bunkerwall. Capable of holding up a roof.</BunkerwallNE.description>
+  <!-- EN: Bunkerwall South/West -->
+  <BunkerwallSW.label>Bunkerwall South/West</BunkerwallSW.label>
+  <!-- EN: An impassable bunkerwall. Capable of holding up a roof. -->
+  <BunkerwallSW.description>An impassable bunkerwall. Capable of holding up a roof.</BunkerwallSW.description>
+</LanguageData>

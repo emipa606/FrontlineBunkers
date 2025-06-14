@@ -1,17 +1,19 @@
-# FrontlineBunkers
+# [Frontline - Bunkers (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2471433364)
 
 ![Image](https://i.imgur.com/buuPQel.png)
+
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
 with permission.
 
 - All guns should now show range when placed
 - 1.0 version should have the correct rotation of the turret
-- [strike]Added the CE-patch into the mod[/strike] CE-patches now included in the main CE-mod
+- ~~Added the CE-patch into the mod~~ CE-patches now included in the main CE-mod
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
+
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
@@ -31,13 +33,13 @@ with permission.
 
 This mod provides an additional way to fortify your Frontline with new bunker structures:
 
-[u]General[/u]:
+<ins>General</ins>:
 
 - This should be fully compatible with [1.0] savegames
 - You need to do research in order to get these structures.
 - The bunkerroof is not a real roof as of terms of game mechanics, you still will have to build a room like in vanilla 
 
-[u]Structures[/u]:
+<ins>Structures</ins>:
 
 *Bunker wall:*
 Slope walls are the foundation of your bunker. Needs A LOT of resources to build but can withstand even the hardest bombardement. Bombs harm it more than ordinary bullets. Takes a lot of time to be set up.
@@ -51,7 +53,7 @@ A heavy door granting passage inside the bunker. It can only be opened manually.
 *Bunkerroof:*
 A semi transparent roofing. Comes in the sizes 5x5 and 3x3. *[notification: More sizes MIGHT come on demand, maybe start a discussion here.]*  Does not hold a roof by itself, it needs surroundings. Takes a lot of time to be set up.
 
-[u]Machine Guns:[/u]
+<ins>Machine Guns:</ins>
 
 *MG 08/15:*
 A build in "Light"-Machine-Gun from the great war. Stats:
@@ -90,14 +92,15 @@ Feel free to leave a comment and please report back any occuring bugs. And final
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
+
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404](Uploader) and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use [https://github.com/RimSort/RimSort/releases/latest](RimSort) to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-[https://steamcommunity.com/sharedfiles/filedetails/changelog/2471433364]![Image]((https://img.shields.io/github/v/release/emipa606/FrontlineBunkers?label=latest%20version&style=plastic&color=9f1111&labelColor=black))
+[![Image](https://img.shields.io/github/v/release/emipa606/FrontlineBunkers?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2471433364) | tags:  fortification
