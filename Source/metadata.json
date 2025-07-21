@@ -3,7 +3,13 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-14T22:27:15.6219805+02:00",
+  "LastXmlCleaning": "2025-07-21T20:53:01.2825227+02:00",
   "SocialImageSet": true,
-  "SearchTags": " fortification"
+  "SearchTags": " fortification",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 56634,
+  "CodeBaseSize": 75
 }

@@ -35,6 +35,7 @@
         <texPath>Bunker/bunkerdoor/Blueprint/bunkerdoor_S_BP</texPath>
       </blueprintGraphicData>
       <isInert>true</isInert>
+      <isAirtight>true</isAirtight>
       <canPlaceOverWall>true</canPlaceOverWall>
       <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
       <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
@@ -97,6 +98,7 @@
         <texPath>Bunker/bunkerdoor/Blueprint/bunkerdoor_N_BP</texPath>
       </blueprintGraphicData>
       <isInert>true</isInert>
+      <isAirtight>true</isAirtight>
       <canPlaceOverWall>true</canPlaceOverWall>
       <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
       <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
@@ -159,6 +161,7 @@
         <texPath>Bunker/bunkerdoor/Blueprint/bunkerdoor_E_BP</texPath>
       </blueprintGraphicData>
       <isInert>true</isInert>
+      <isAirtight>true</isAirtight>
       <canPlaceOverWall>true</canPlaceOverWall>
       <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
       <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
@@ -221,6 +224,7 @@
         <texPath>Bunker/bunkerdoor/Blueprint/bunkerdoor_W_BP</texPath>
       </blueprintGraphicData>
       <isInert>true</isInert>
+      <isAirtight>true</isAirtight>
       <canPlaceOverWall>true</canPlaceOverWall>
       <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
       <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
