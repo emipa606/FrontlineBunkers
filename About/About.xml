@@ -12,12 +12,13 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545794905
 with permission.
@@ -26,20 +27,20 @@ with permission.
 - 1.0 version should have the correct rotation of the turret
 - [strike]Added the CE-patch into the mod[/strike] CE-patches now included in the main CE-mod
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
     [tr]
-        [td][url=https://discord.gg/h5TY6DA][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-        [td][url=https://github.com/emipa606/FrontlineBunkers][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+        [td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/FrontlineBunkers][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
@@ -115,17 +116,17 @@ A build in "Heavy"-Machine-Gun. Stats:
 
 Feel free to leave a comment and please report back any occuring bugs. And finally: Have Fun.
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2471433364][img]https://img.shields.io/github/v/release/emipa606/FrontlineBunkers?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  fortification</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2471433364][img]https://img.shields.io/github/v/release/emipa606/FrontlineBunkers?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | fortification</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>
